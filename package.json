@@ -1,0 +1,23 @@
+{
+  "name": "web-football-manager",
+  "version": "1.0.0",
+  "description": "web football manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-nekrasov/web-football-manager.git"
+  },
+  "keywords": [
+    "football",
+    "javascript"
+  ],
+  "author": "Denys Nekrasov <den4ik3201@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-nekrasov/web-football-manager/issues"
+  },
+  "homepage": "https://github.com/d-nekrasov/web-football-manager#readme"
+}
